@@ -1,3 +1,6 @@
-name: qinshaoq's site
-markdown: redcarpet
+markdown: rdiscount
+permalink: /:year/:month/:title/
+author: qinshaoq
 pygments: true
+paginate: 16
+url: http://qinshaoq.github.com
