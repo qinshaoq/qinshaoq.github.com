@@ -1,5 +1,6 @@
 ---
 
+title: SIFT资源汇总
 layout: post
 categories: [image processing]
 tags: [image processing, program]
